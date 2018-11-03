@@ -1,0 +1,8 @@
+config.py
+mecab.py
+mecab.txt
+timeline.py
+twitter.txt
+twitter.py
+wc.py
+__pycache__/
